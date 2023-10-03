@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @foxwithahdie! You can call me Ram.
+- I am a senior in high school and soon-to-be college freshman.
 - 👀 I’m currently interested in Java, Python, and Web Development Frameworks / Base HTML/CSS/JS.
 - I plan to be a computer hardware engineer so I will soon be learning low-level programming (C, C++, Assembly (Many forms), Rust)
 - 🌱 I’m currently learning Java, and soon C!
