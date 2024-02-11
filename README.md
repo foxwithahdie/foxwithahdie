@@ -6,6 +6,7 @@
 ### Learning:
 - Java
 - C
+- C#
 
 ### Plans to Learn:
 - C++
