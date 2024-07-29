@@ -2,10 +2,17 @@
 ### Currently:
 - A Python Developer
 - A Web Developer (New to React/Next, Already know HTML/CSS/JS)
+- Having fun in C!
 
 ### Learning:
 - Java
 - C
+- Kotlin
+
+### Interested:
+
+- Gleam
+- Rust
 - C#
 
 ### Plans to Learn:
