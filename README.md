@@ -1,7 +1,6 @@
 # Hi, I’m @foxwithahdie! You can call me Ram.
 ### Currently:
 - A Python Developer
-- A Web Developer (New to React/Next, Already know HTML/CSS/JS)
 - Having fun in C!
 
 ### Learning:
