@@ -1,21 +1,19 @@
 # Hi, I’m @foxwithahdie! You can call me Ram.
 ### Currently:
 - A Python Developer
-- Having fun in C!
+- Amateur C Developer
 
 ### Learning:
 - Java
-- C
 - Kotlin
+- C++
 
 ### Interested:
 
-- Gleam
 - Rust
 - C#
 
 ### Plans to Learn:
-- C++
 - Backend Web Frameworks
 
 ### How to reach me:
